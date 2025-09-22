@@ -1,2 +1,1 @@
-**Welcome to my home page.**
-
+Welcome to my home page.
